@@ -15,7 +15,7 @@ This project is built using **FastAPI, PostgreSQL, and Machine Learning**, and g
 
 Watch the backend system in action:
 
-Download Demo Video
+[Download Demo Video](assets/backend1.0_output.mp4)
 
 ### Database Setup
 
